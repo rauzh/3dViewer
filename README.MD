@@ -12,4 +12,5 @@
 * Фасад
 * Мост
 
-![image](https://github.com/rauzh/3dViewer/assets/90677552/a5434acf-17e0-43c4-acd5-495fd880446a)
+![image](https://github.com/rauzh/3dViewer/assets/90677552/17a7042e-e0dc-416d-95f9-033cbafb9344)
+
